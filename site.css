@@ -85,6 +85,10 @@ main{
     width: 100%;
     align-items: center;
 }
+.learning-outcomes-tb tr th{
+    border: 2px rgba(204, 204, 204 , .2) solid;
+    background-color: rgba(204, 204, 204 , .2);
+}
 .learning-outcomes-tb tr td:nth-child(3)
 ,.learning-outcomes-tb tr td:nth-child(4)
 ,.learning-outcomes-tb tr td:nth-child(5)
